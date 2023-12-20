@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, My name is Yassine Elkefi</h1>
 <h3 align="center">A passionate frontend/backend developer from Tunisia</h3>
 
-<p align="left"> <a href="https://twitter.com/yassine_elkefi" target="blank"><img src="https://img.shields.io/twitter/follow/yassine_elkefi?logo=twitter&style=for-the-badge" alt="yassine_elkefi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/YassineElkefi" target="blank"><img src="https://img.shields.io/twitter/follow/yassine_elkefi?logo=twitter&style=for-the-badge" alt="yassine_elkefi" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks(react,nodeJs),mobile development**
 
