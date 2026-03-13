@@ -10,7 +10,7 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+—+coding+for+the+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+-+coding+for+the+world" alt="Typing SVG"/>
 </p>
 
 <!-- SOCIALS -->
