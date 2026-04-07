@@ -1,23 +1,15 @@
-<!-- HEADER — type=waving, no animation param, & not escaped inside src -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=130&section=header&text=Yassine%20ELKEFI&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=Full%20Stack%20%26%20Mobile%20Engineer&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- NAME -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Yassine+ELKEFI" alt="Yassine ELKEFI" />
-</h1>
-
-<!-- TYPING SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+-+coding+for+the+world)
-
-<!-- SOCIALS -->
+<!-- SOCIALS + PROFILE VIEWS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-elkefi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://x.com/YassineElkefi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
   <a href="https://www.instagram.com/yassine_elkefi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
   <a href="http://discord.com/users/189012634056654849"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
-  <a href="https://yassineelkefidev-portfolio.vercel.app"><img src="https://img.shields.io/badge/YE.-Portfolio-blueviolet?style=for-the-badge&labelColor=000000&color=7B2FFF&logoColor=00E5FF"/></a>
+  <a href="https://yassineelkefidev-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7B2FFF?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -26,19 +18,15 @@
   <img src="https://img.shields.io/github/followers/YassineElkefi?style=for-the-badge&color=A855F7&labelColor=1a1a2e&logo=github&logoColor=white&label=FOLLOWERS"/>
 </p>
 
-<br/>
-
----
-
-## 🧬 About Me
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=40&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+-+coding+for+the+world"/>
 </p>
 
 <br/>
 
-<p align="center">
+---
+
+## 🧬 Who Am I?
 
 ```typescript
 const yassine = {
@@ -47,21 +35,73 @@ const yassine = {
   location : "Tunis, Tunisia 🇹🇳",
 
   stack: {
-    languages : ["TypeScript","Python","Java","Dart","Swift"],
-    frontend  : ["React","Next.js","Angular","Tailwind"],
-    backend   : ["NestJS","FastAPI","Spring Boot",".NET"],
-    mobile    : ["Flutter","Ionic","Android","Swift"],
-    devOps    : ["Docker","Kubernetes","Ansible","Nginx"],
-    databases : ["MongoDB","MySQL","Oracle","Firebase"],
+    languages : ["TypeScript", "Python", "Java", "Dart", "Swift"],
+    frontend  : ["React", "Next.js", "Angular", "Tailwind"],
+    backend   : ["NestJS", "FastAPI", "Spring Boot", ".NET"],
+    mobile    : ["Flutter", "Ionic", "Android", "Swift"],
+    devOps    : ["Docker", "Kubernetes", "Ansible", "Nginx"],
+    databases : ["MongoDB", "MySQL", "Oracle", "Firebase"],
   },
 
   learning : "Cloud-native architectures ☁️",
-  openTo   : ["Full-time","Freelance","Open Source"],
+  openTo   : ["Full-time", "Freelance", "Open Source"],
   passion  : "Clean code · Great UX · Scalable systems",
 };
 ```
 
-</p>
+---
+
+## 🚀 Featured Projects
+
+> Things I've built that I'm proud of — click to explore.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧩 Sudoo</h3>
+      <p>Modern, fully-featured Sudoku web app with multiple difficulty levels, note mode, hints, pause, and beautiful Dark/Light themes. Full keyboard navigation and mobile responsive.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://github.com/YassineElkefi/sudoo"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h3>📞 NumiX</h3>
+      <p>Wordle-style game where you guess an 8-digit Tunisian phone number in 8 attempts. Features flip animations, confetti, stats tracking, dark/light mode, and a mobile numpad — all with correct duplicate-digit logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://github.com/YassineElkefi/NumiX"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎯 CodeHunt</h3>
+      <p>Real-time 2-player Bulls &amp; Cows deduction game. Players create/join rooms, lock secret 4-digit codes, and take turns guessing with live feedback — all powered by Socket.IO with zero page reloads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://github.com/YassineElkefi/CodeHunt"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h3>🚗 Garaji</h3>
+      <p>Cross-platform mobile app for personal vehicle management. Track vehicles, log maintenance with cost &amp; mileage, get smart repair recommendations, and view an interactive maintenance timeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      </p>
+      <a href="https://github.com/YassineElkefi/Garaji"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,9 +122,6 @@ const yassine = {
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
@@ -96,59 +133,23 @@ const yassine = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary><br/>
+<summary><b>🗄️ Databases & Cloud</b></summary><br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Infrastructure</b></summary><br/>
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧰 Tools, IDEs & Design</b></summary><br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 </details>
 
@@ -191,13 +192,17 @@ const yassine = {
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Together
 
 <p align="center">
+  I'm open to full-time roles, freelance projects, and open-source collaborations.<br/>
+  If you have an idea or opportunity, don't hesitate to reach out.
+</p>
+
+<p align="center">
+  <a href="mailto:yassine.elkefi@YOUR_EMAIL.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/yassine-elkefi/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://x.com/YassineElkefi"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/yassine_elkefi/"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="https://yassineelkefidev-portfolio.vercel.app"><img src="https://img.shields.io/badge/YE.-My%20Portfolio-7B2FFF?style=for-the-badge&labelColor=000000&logoColor=00E5FF"/></a>
+  <a href="https://yassineelkefidev-portfolio.vercel.app"><img src="https://img.shields.io/badge/View%20My%20Portfolio-7B2FFF?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
