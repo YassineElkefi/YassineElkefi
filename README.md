@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=130&section=header&text=Yassine%20ELKEFI&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=Full%20Stack%20%26%20Mobile%20Engineer&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%"/>
 </p>
 
 <!-- SOCIALS + PROFILE VIEWS -->
@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/github/followers/YassineElkefi?style=for-the-badge&color=A855F7&labelColor=1a1a2e&logo=github&logoColor=white&label=FOLLOWERS"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=40&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+-+coding+for+the+world"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=⚡+Building+scalable+full-stack+apps;📱+Crafting+beautiful+mobile+experiences;🐳+Shipping+with+Docker+%26+Kubernetes;🌍+Based+in+Tunisia+-+coding+for+the+world)
 
 <br/>
 
@@ -158,13 +156,14 @@ const yassine = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YassineElkefi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=130&section=header&text=Yassine%20ELKEFI&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=Full%20Stack%20Web%20and%20Mobile%20Engineer&descAlignY=75&descSize=16&animation=fadeIn"/>
+
   <img width="49%" src="https://streak-stats.demolab.com?user=YassineElkefi&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineElkefi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassineElkefi&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&radius=12"/>
@@ -200,7 +199,7 @@ const yassine = {
 </p>
 
 <p align="center">
-  <a href="mailto:yassine.elkefi@YOUR_EMAIL.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:yassine.elkefi6@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/yassine-elkefi/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://yassineelkefidev-portfolio.vercel.app"><img src="https://img.shields.io/badge/View%20My%20Portfolio-7B2FFF?style=for-the-badge&logoColor=white"/></a>
 </p>
